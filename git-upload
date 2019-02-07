@@ -5,5 +5,5 @@ git config --global user.email valdisotankis@gmail.com
 git add .
 #git commit -m "20190207_15_05"
 git commit -m $1
-git push orogin master
+git push origin master
 fi
