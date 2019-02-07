@@ -1,0 +1,28 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Valdiz66/RTR108
+    4  ls-l
+    5  l- ls
+    6  ls- l
+    7  ls
+    8  cd RTR108
+    9  ls-lt
+   10  ls -lt
+   11  cat README.md
+   12  ls -la
+   13  nano README.md
+   14  ls-lt
+   15  ls -lt
+   16  git config --global user.email valdisotankis@gmail.com
+   17  git add .
+   18  git commit -m "20190207_14_52_pirmais_commits"
+   19  git push origin master
+   20  nano README.md
+   21  nano git-upload
+   22  ls -lt
+   23  sh git-upload
+   24  ./git-upload
+   25  chmod 740 git-upload 
+   26  ls -lat
+   27  history
+   28  history > history_20190207.txt
