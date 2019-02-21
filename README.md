@@ -1,7 +1,5 @@
 # RTR108
-Studiju kursa Datormācība (speckurss) elektroniskā klade
-## 2.nodarbība
-rinda 1  
-rinda 2  
-rinda 3  
+ :point_right: Studiju kursa Datormācība (speckurss) elektroniskā klade :point_left:
+## Kommandas
+**chmod** 777 <p style='color:green'>- maina lietotāju tiesības rwx* </p>
 
