@@ -1,0 +1,500 @@
+   25  ls P01
+   26  ls P01/
+   27  ./git-upload 20190214_15_32
+   28  ls -l
+   29  cd P01/
+   30  ls -l
+   31  cd P01/
+   32  ls -l
+   33  cd ..
+   34  ls -l
+   35  cd ..
+   36  ls -l
+   37  mv P01/P01/ P01/
+   38  mv P01/P01/ P02/
+   39  ls -l
+   40  cd P01/
+   41  ls -l
+   42  cd ..
+   43  rm P01
+   44  rm -rf P01
+   45  cd P02
+   46  ls -l
+   47  cd ..
+   48  mv P02/ P01/
+   49  ls -l
+   50  ./git-upload 20190214_15_35
+   51  pwd
+   52  ls -l
+   53  cd P01
+   54  ls -l
+   55  qucs
+   56  rm -rf
+   57  ls -l
+   58  exit
+   59  mkdir darbi
+   60  ls
+   61  cd darbi
+   62  gschem
+   63  ls
+   64  cd P01
+   65  ls
+   66  gnetlist -g spice -o 01.net 01.sch
+   67  ls
+   68  cat 01.net
+   69  ngspice
+   70  ngspice
+   71  ls
+   72  gschem 01.sch
+   73  ls
+   74  cat 01.sch~
+   75  gnetlist -g spice -o 01.net 01.sch
+   76  ls
+   77  cat 01.net
+   78  ngspice
+   79  ls
+   80  rm 01.sch~
+   81  ls
+   82  qucs
+   83  ls
+   84  it config --global user.email martins.strazdins1999@gmail.com
+   85  git config --global user.email martins.strazdins1999@gmail.com
+   86  git add ..
+   87  ..
+   88  ...
+   89  .
+   90  cd /darbi
+   91  ls
+   92  cd ./darbi
+   93  cd darbi
+   94  ..
+   95  cd /strazdins/darbi
+   96  cd ..
+   97  git config --global user.email martins.strazdins1999@gmail.com
+   98  git add .
+   99  cd ..
+  100  git clone https://gitgub.com/strazdins/RTR108
+  101  git clone https://github.com/strazdins/RTR108
+  102  ls
+  103  cd RTR108
+  104  ls
+  105  mk dir 
+  106  ..
+  107  cd..
+  108  mv ./darbi ./RTR108
+  109  mv ~/strazdins/darbi ~/strazdins/RTR108/darbi
+  110  ls
+  111  cd ..
+  112  ls
+  113  cd RTR108
+  114  cd darbi
+  115  ls
+  116  cd P01
+  117  ls
+  118  cd ..
+  119  nano #untitled_1.sch#
+  120  ls
+  121  rm #untitled_1.sch#
+  122  rv #untitled_1.sch#
+  123  rm ./#untitled_1.sch#
+  124  ls
+  125  ..
+  126  cd ..
+  127  git config --global user.email martins.strazdins1999@gmail.com
+  128  cd ..
+  129  ls
+  130  cd RTR108
+  131  git config --global user.email martins.strazdins1999@gmail.com
+  132  git add .
+  133  pwd
+  134  ls -lt
+  135  ls -l
+  136  cd ..
+  137  ls
+  138  cp ~/strazdins/RTR108/darbi ~/strazdins/darbi
+  139  ls
+  140  cd RTR108
+  141  ls
+  142  cd ..
+  143  cp -r ~/strazdins/RTR108/darbi ~/strazdins/darbi
+  144  ls
+  145  cd RTR108/darbi/P01
+  146  ls
+  147  cd //
+  148  cd ..
+  149  cd ..
+  150  cd strazdins
+  151  cd /strazdins
+  152  ls
+  153  cd lib
+  154  ls
+  155  cd ..
+  156  ls
+  157  cd bin
+  158  ls
+  159  cd ..
+  160  ls
+  161  cd home
+  162  ls
+  163  cd x121REB360
+  164  ls
+  165  cd strazdins
+  166  ls
+  167  cd RTR108
+  168  ls
+  169  cd darbi
+  170  ls
+  171  c dP01
+  172  cd P01
+  173  ls
+  174  cd ..
+  175  cd ..
+  176  ls
+  177  ls darbi/P01/
+  178  ./git-upload 20190214_15_32
+  179  ..
+  180  cd ..
+  181  cd ..
+  182  ls
+  183  cd strazdins
+  184  cd RTR108
+  185  ls
+  186  mkdir history
+  187  mv ./history_20190207.txt ./history/
+  188  ls
+  189  cd history
+  190  ls
+  191  cd ..
+  192  ls
+  193  nano README.md
+  194  ./git-upload 20190214_15_37
+  195  ./git-upload 20190214_15_38
+  196  ls
+  197  ls
+  198  cd ..
+  199  rm -r RTR108
+  200  ls
+  201  cd ..
+  202  ls
+  203  cd P01
+  204  ls
+  205  cd ..
+  206  cd strazdins
+  207  exit
+  208  ls -la
+  209  cd VladisPetris_Darbi
+  210  ls-l
+  211  ls-la
+  212  ls
+  213  gschem
+  214  gnetlist -g spice -o 01.net 01.sch
+  215  gschem
+  216  ls-a
+  217  ls -a
+  218  gnetlist -g spice -o 01.net 01.sch
+  219  cat 01.net
+  220  ngspice
+  221  qucs
+  222  ls -a
+  223  qucs
+  224  ls -l
+  225  pwd
+  226  ls - lt
+  227  ls -lt
+  228  git clone https:/github.com/Valdiz66/RTR108
+  229  git clone https:/github.com/ValdiZ66/RTR108
+  230  git clone https:/github.com/valdiz66/RTR108
+  231  git clone https://github.com/ValdiZ66/RTR108
+  232  ls -l
+  233  ls -lt
+  234  rm #untitled_1.sch# 
+  235  rm \#untitled_1.sch# 
+  236  ls -lt
+  237  cd RTR108
+  238  ls -lt
+  239  cp  ../*.*  ./P01/
+  240  cp  ../*.*  ./P01
+  241  ls -l
+  242  cp  ../*.*  ./P01/
+  243  cp  ../*.*/  ./P01/
+  244  cp  ../*.*  ./P01/
+  245  cp  ../*.*  .P01/
+  246  cp  ../*.*  .P01
+  247  cp  .. *.*  ./P01/
+  248  cp  ../*.*  ./P01/
+  249  mkdir P01
+  250  cp  ../*.*  ./P01/
+  251  ls -lt
+  252  cd P01
+  253  ls -lt
+  254  cd
+  255  cd VladisPeteris_Darbi
+  256  cd VladisPteris_Darbi
+  257  cd VladisPtris_Darbi
+  258  cd VladisPetris_Darbi
+  259  cd RTR108
+  260  ls -lt
+  261  ./git-upload 20190214_15_35
+  262  pwd
+  263  cd VladisPtris_Darbi
+  264  ../
+  265  cd/VladisPetris_Darbi
+  266  ../
+  267  ../cd
+  268  cd
+  269  cd/VladisPetris_Darbi
+  270  cd VladisPetris_Darbi
+  271  pwd
+  272  ls-l
+  273  ls -lt
+  274  rm -rf
+  275  ls -lt
+  276  rm -rf
+  277  rm -rf*
+  278  rm -rf *
+  279  ls -lt
+  280  exit
+  281  ls -la
+  282  cd Sandis_Migla
+  283  ls -la
+  284  ls
+  285  ls -l
+  286  ls -a
+  287  man ls
+  288  ls -la
+  289  cd .
+  290  ls -la
+  291  mkdir P01
+  292  cd P01
+  293  ls -la
+  294  gschem
+  295  ls -la
+  296  ls -l
+  297  gnetlist -g spice -o 01.net 01.sch
+  298  gschem 01.sch
+  299  gnetlist -g spice -o 01.net 01.sch
+  300  ls -l
+  301  cat 01.net
+  302  ngapice
+  303  ngspice
+  304  ls -l
+  305  qucs
+  306  ls -l
+  307  cd .
+  308  cd ..
+  309  ls -l
+  310  git clone http://github.com/SandisMigla/RTR108
+  311  ls -l
+  312  cp P01 RTR108
+  313  ls -l
+  314  cd P01
+  315  ls -l
+  316  cd ..
+  317  ls -l
+  318  cd RTR108
+  319  ;s -l
+  320  ls -l
+  321  cat git-upload
+  322  cd ..
+  323  ls -l
+  324  cp P01 ./RTR108
+  325  cd RTR108
+  326  nano README.md
+  327  cd ..
+  328  ls -l
+  329  cp P01/RTR108
+  330  ls -l
+  331  cp P01 RTR108]
+  332  cd RTR108
+  333  ls -l
+  334  cd ..
+  335  ls -l
+  336  cp P01 RTR108
+  337  cp -r P01 RTR108/P01/
+  338  ls -lt
+  339  cd RTR108/
+  340  ls -lt
+  341  cd P01
+  342  ls -lt
+  343  cd ..
+  344  ls -lt
+  345  ./git-upload
+  346  ./git-upload 14_02_2019__15_18
+  347  history
+  348  ls
+  349  cd kupshans
+  350  exit
+  351  ls
+  352  cd 181REB345
+  353  ls
+  354  mkdir darbi
+  355  ls
+  356  cd darbi
+  357  gschem
+  358  gschem &
+  359  ls -lt
+  360  cat 01.sch 
+  361  cat 01.ps
+  362  gnetlist -g spice -o 01.net 01,sch
+  363  gnetlist -g spice -o 01.net 01.sch
+  364  ls
+  365  cat 01.net
+  366  rm 01.net
+  367  ls
+  368  rm ls
+  369  ls
+  370  gnetlist -g spice -o 01.net 01.sch
+  371  ls
+  372  cat 01.net
+  373  ngspice
+  374  ls
+  375  cat 01.net
+  376  cat 01.net
+  377  gnetlist -g spice -o 01.net 01.sch
+  378  gschem &
+  379  ls
+  380  rm 01.ps
+  381  ls
+  382  em 01.net
+  383  ls
+  384  rm 01.net
+  385  ls
+  386  rm 01.sch
+  387  ls
+  388  rm 01.sch~
+  389  ls
+  390  ls
+  391  ls
+  392  gnetlist -g spice -o 01.net 01.sch
+  393  ls
+  394  ngspice
+  395  ls
+  396  rm 022.ps
+  397  ls
+  398  ngspice
+  399  QUCS
+  400  qucs
+  401  ls
+  402  pwd
+  403  ls -lt
+  404  git clone https:/github.com/Kibersportists/RTR108
+  405  git clone https:/github.com/Kibersportists/RTR108
+  406  git clone https://github.com/Kibersportists/RTR108
+  407  ls -l
+  408  ls -lt
+  409  cd RTR108
+  410  ls
+  411  cp -r ../P01/ ./P01/
+  412  cp ../*.*/ ./P01/
+  413  cp ../*.* ./P01/
+  414  ls -lt
+  415  cp ../*.* ./P01
+  416  mkdir P01
+  417  cp ../*.* ./P01/
+  418  ls -l
+  419  ls -l P01/
+  420  ls -lt
+  421  ./git-upload 20190214_15_35
+  422  pwd
+  423  cd
+  424  ls
+  425  ls
+  426  cd 181REB345
+  427  ls
+  428  cd darbi
+  429  ls
+  430  qucs
+  431  exit
+  432  exit
+  433  pwd
+  434  ls -lt
+  435  ls -lt
+  436  cd P01
+  437  ls -lt
+  438  cd ..
+  439  mkdir P02
+  440  cd P02
+  441   git clone http://github.com/Denisstl/RTR108
+  442  ls
+  443  ls -lt
+  444  man scp
+  445  exit
+  446  cd Kaspars
+  447  ls
+  448  cd P01
+  449  ngspice
+  450  cat 01.net
+  451  nano 01.net 
+  452  gnetlist -g spice -o 01.net 01.sch
+  453  cat 01.net
+  454  ngspice
+  455  nano 01.net 
+  456  ngspice
+  457  ls
+  458  ls -l
+  459  QUCS
+  460  qucs
+  461  pwd
+  462  ls -lt
+  463  cd ..
+  464  ls -l
+  465  ls -ls
+  466  gitclone https:/github.com/KaspsM/RTR108
+  467  git clone https:/github.com/KaspsM/RTR108
+  468  git clone https://github.com/KaspsM/RTR108
+  469  git clone https://github.com/KaspsM/RTR108a
+  470  ls -lt
+  471  cd RTR108
+  472  cd RTR108
+  473  cd RTR108a
+  474  ls -l
+  475  cp -r ../P01/ ./P01/
+  476  ls -l
+  477  ls P01/
+  478  ./git-upload 20190214_15_32
+  479  ./git-upload 20190214_15_32
+  480  ls P01/
+  481  ./git-upload 20190214_15_32
+  482  cd ..
+  483  pwd
+  484  exit
+  485  ls
+  486  cd Janitis_darbi
+  487  ls
+  488  qucs
+  489  cd P01
+  490  ls
+  491  qucs
+  492  ..
+  493  ..
+  494  cs ..
+  495  cd ..
+  496  qucs
+  497  ls
+  498  quics
+  499  qucs
+  500  mkdir mape
+  501  cd mape
+  502  ls -a
+  503  ls -la
+  504  pwd
+  505  cd .
+  506  nano mans_skripts.sh
+  507  nano mans_skripts.sh
+  508  fg
+  509  ./mans_skripts.sh
+  510  echo $PATH
+  511  PATH=$PATH:~/
+  512  echo $PATH
+  513  mans_skripts.sh
+  514  PATH=$PATH:~/VladisPetris_Darbi/mape
+  515  mans_skripts
+  516  mans_skripts.sh
+  517  ls -l
+  518  chmod 750 mans_skripts.sh
+  519* 
+  520  mans_skripts.sh
+  521  ls -l
+  522  ls -la
+  523  history 
+  524  history > history_20190221.txt
