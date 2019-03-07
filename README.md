@@ -5,8 +5,10 @@
   Atkārtošana ir [zināšanu māte.](https://www.google.com/)
 ## Kommandas
 **chmod** 777 <p style='color:green'>- maina lietotāju tiesības rwx* autoram/liet.grupai/visiem</p>
-**echo** - izvada Vērtību vai tekstu iekš " " ,kas seko aiz komandas
+**echo** - izvada Vērtību vai tekstu iekš " " ,kas seko aiz komandas echo
+
 **echo $0** - izvada pašreiz aktīvo shell dialektu (bash/sh/...)
+
 **echo $PATH** - izvada visus esošos/izveidotos PATH
 
 
