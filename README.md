@@ -1,5 +1,7 @@
 # RTR108
  :point_right: Studiju kursa Datormācība (speckurss) elektroniskā klade :point_left:
+  
+  
   Atkārtošana ir [zināšanu māte.](https://www.google.com/)
 ## Kommandas
 **chmod** 777 <p style='color:green'>- maina lietotāju tiesības rwx* </p>
